@@ -1,0 +1,18 @@
+Recipe Crawler:
+
+--------------------------------------
+-                                    -
+-                                    -
+-                                    -
+-                                    -
+-                                    -
+-                                    -
+-                                    -
+-                                    -
+--------------------------------------
+
+
+Design the pages, and process flow. 
+
+Use JSOUP jar to crawl the web. 
+Collate the results, and display to the user. 
